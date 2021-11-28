@@ -1,0 +1,35 @@
+.User-card {
+  display: inline-block;
+  border-radius: 25px;
+  padding: 0.5%;
+  width: 25%;
+  box-shadow: 0 2px 20px rgb(54, 54, 54);
+  text-align: center;
+  margin: 1.5%;
+}
+
+.User-card h3 {
+  margin: 2.5% 2.5% 0px;
+}
+
+.User-card p {
+  margin-bottom: 0;
+  padding: 1.5%;
+  color: black;
+  letter-spacing: 1px;
+}
+
+.User-card img {
+  margin: 1.5%;
+  border-radius: 10%;
+  border: 3px solid rgb(0, 0, 0);
+  width: 30%;
+  height: 30%;
+}
+
+.Card-details {
+  margin: 0;
+  background-image: linear-gradient(rgb(250, 143, 56), rgb(250, 236, 43));
+  border-radius: 25px;
+}
+.
